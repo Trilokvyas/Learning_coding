@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.2092
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningDotNet", "LearningDotNet\LearningDotNet.csproj", "{DBD213B4-7A51-4228-A0D2-3FC52FDF996C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calsspractice", "calsspractice\calsspractice.csproj", "{F28F2A86-A44D-4F05-B053-FB320253DC00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DBD213B4-7A51-4228-A0D2-3FC52FDF996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD213B4-7A51-4228-A0D2-3FC52FDF996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD213B4-7A51-4228-A0D2-3FC52FDF996C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28F2A86-A44D-4F05-B053-FB320253DC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28F2A86-A44D-4F05-B053-FB320253DC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28F2A86-A44D-4F05-B053-FB320253DC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28F2A86-A44D-4F05-B053-FB320253DC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

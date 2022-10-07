@@ -13,7 +13,7 @@
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" /> 
 </head>
 <body>
-    <form runat="server">
+    <form runat="server" class="form-horizontal">
         <asp:ScriptManager runat="server">
             <Scripts>
                 <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
@@ -49,6 +49,8 @@
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li><a runat="server" href="~/Day1_DotNetControls">Day1_School_form</a></li>
+
                     </ul>
                 </div>
             </div>
